@@ -6,16 +6,16 @@ The receptionist shares this information with the patient's relatives, helping t
 a safe, timely transfusion.
 The following table summarize blood groups compatibility:
 
-	                Donor
+	                             Donor
 Recipient	O-	O+	A-	A+	B-	B+	AB-	AB+
-    O-	    x							
-    O+	    x	x						
-    A-	    x		x					
-    A+	    x	x	x	x				
-    B-	    x				x			
-    B+	    x	x			x			
-    AB-	    x		x		x		x	
-    AB+	    x	x	x	x	x	x	x	x
+    O-	        x							
+    O+	        x	x						
+    A-	        x		x					
+    A+	        x	x	x	x				
+    B-	        x				x			
+    B+	        x	x			x			
+    AB-	        x		x		x		x	
+    AB+	        x	x	x	x	x	x	x	x
 
 Apply your concepts of simple and multidimensional array to derive a solution for the ER reception*/
 
