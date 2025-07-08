@@ -1,24 +1,17 @@
-# Computer Programming Theory – Spring 2025
+# 📚 Computer Programming Spring 2025 – Theory Practice
 
-This repository contains all my coursework, assignments, and self-practice questions from the **Computer Programming Theory** course at Bahria University (Spring 2025). The focus of this repo is on learning and applying the core concepts of C++ programming.
+Welcome to my **Computer Programming (Spring 2025)** repo!  
+This space is a compilation of **lecture-wise theory practice, assignments, PBLs**, and a few extra problems I solved on the side to level up my coding game 🚀
 
-## 📘 What's Inside
+---
 
-- ✅ Course Assignments (Topic-wise)
-- ✏️ Self-practice questions (beyond class material)
-- 💡 Logic-building exercises
-- 🛠️ Experimentation with functions, recursion, conditionals, loops, etc.
+## 💡 What's Inside?
 
-## 🎯 Topics Covered
-
-- Input/Output and Variables
-- Conditional Statements
-- Loops (while, do-while, for)
-- Functions & Function Overloading
-- Recursion
-- Arrays & Searching/Sorting Algorithms
-- File Handling Basics (text files)
-- Problem Solving & Debugging Practice
-
-## 📁 Folder Structure
-
+- 🧮 **Basic Input/Output**
+- 🔁 **Loops (for, while, do-while)**
+- 🧠 **Conditional Statements (if, else, switch)**
+- 📦 **Functions & Overloading**
+- 📊 **Arrays (1D & 2D)**
+- 🔄 **Recursion**
+- 📂 **File Handling Basics**
+- 👨‍💻 **Assignments & PBLs from Bahria Uni**
