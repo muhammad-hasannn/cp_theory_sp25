@@ -1,17 +1,17 @@
-# 📚 Computer Programming Spring 2025 – Theory Practice
+# Computer Programming Theory (Spring 2025)
 
-Welcome to my **Computer Programming (Spring 2025)** repo!  
-This space is a compilation of **lecture-wise theory practice, assignments, PBLs**, and a few extra problems I solved on the side to level up my coding game 🚀
+This repository contains theory practice, assignments, and additional programming problems completed as part of the Computer Programming course at Bahria University.
+
+## What's Included
+
+This repository is a compilation of assignments, PBLs (Problem-Based Learning), and extra coding problems to enhance programming skills:
+
+- **👨💻 Assignments & PBLs** - Course assignments and problem-based learning tasks from Bahria University
+- **🚀 Additional Self Practice Problems** - Extra coding challenges and solutions
+
+Each section contains theoretical concepts implemented through practical code examples and problem-solving exercises.
 
 ---
 
-## 💡 What's Inside?
-
-- 🧮 **Basic Input/Output**
-- 🔁 **Loops (for, while, do-while)**
-- 🧠 **Conditional Statements (if, else, switch)**
-- 📦 **Functions & Overloading**
-- 📊 **Arrays (1D & 2D)**
-- 🔄 **Recursion**
-- 📂 **File Handling Basics**
-- 👨‍💻 **Assignments & PBLs from Bahria Uni**
+*Computer Programming Course - Spring 2025*  
+*Bahria University*
